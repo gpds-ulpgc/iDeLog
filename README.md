@@ -21,5 +21,6 @@ To install the tollbox I Matlab:
 3.	Add LognormalsDecomposition folder to Matlab path
 4.	Run Prueba iDeLog
 
+Take into account that you need installed in your matlab the “G1 fitting with clothoids” Toolbox which you can download from:  https://github.com/ebertolazzi/G1fitting
 
 Any suggestion, please send an email to gpds@gi.ulpgc.es
